@@ -12,8 +12,8 @@ from boto.s3.key import Key
 
 debug = False
 
-access_key = "AKIAI4UMQFNONT7SI5PA"
-secret = "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"
+access_key = "<access_key>"
+secret = "<secret>"
 listing_bucket = "hc-airbnb-data"
 calendar_bucket = "hc-airbnb-data"
 locale = "garden_city"
